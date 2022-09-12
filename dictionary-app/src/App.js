@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <h1>dictionary-app</h1>
+      <a href="a" className="btn btn-primary">Button</a>
       </header>
     </div>
   );
