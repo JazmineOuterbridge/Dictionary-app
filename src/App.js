@@ -12,7 +12,7 @@ function App() {
       <main>
         <Dictionary defaultKeyword="Jazz"/>
       </main>
-      <footer>Coded by Jazmine Outerbridge</footer>
+      <footer>Coded by 👩🏽‍💻Jazmine Outerbridge, and is open sourced on <a href='https://github.com/JazmineOuterbridge'> GitHub</a></footer>
     </div>
   );
 }
